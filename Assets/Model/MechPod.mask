@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MechPod
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/LowerBody
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/CamRot
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/CamRot/Cam
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/Head
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/Pod1
+    m_Weight: 1
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/Pod2
+    m_Weight: 1
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/Pod3
+    m_Weight: 1
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/Pod4
+    m_Weight: 1
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/UpperArm.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/UpperArm.l/LowerArm.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/UpperArm.l/LowerArm.l/WeaponHandle.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/UpperArm.l/LowerArm.l/WeaponHandle.l/Weapon.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.l/UpperArm.l/LowerArm.l/WeaponHandle.l/Weapon.l/BlasterPos
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r/laser.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r/LaserPos
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r/UpperArm.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r/UpperArm.r/LowerArm.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r/UpperArm.r/LowerArm.r/WeaponHandle.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r/UpperArm.r/LowerArm.r/WeaponHandle.r/Weapon.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/BodyCtrl/BodyMain/MainArm.r/UpperArm.r/LowerArm.r/WeaponHandle.r/Weapon.r/CannonPos
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.l/UpperLeg2.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.l/UpperLeg2.l/LowerLeg1.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.l/UpperLeg2.l/LowerLeg1.l/LowerLeg2.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.l/UpperLeg2.l/LowerLeg1.l/LowerLeg2.l/FootMain.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.l/UpperLeg2.l/LowerLeg1.l/LowerLeg2.l/FootMain.l/FootBack.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.l/UpperLeg2.l/LowerLeg1.l/LowerLeg2.l/FootMain.l/FootFront.l
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.r/UpperLeg2.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.r/UpperLeg2.r/LowerLeg1.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.r/UpperLeg2.r/LowerLeg1.r/LowerLeg2.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.r/UpperLeg2.r/LowerLeg1.r/LowerLeg2.r/FootMain.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.r/UpperLeg2.r/LowerLeg1.r/LowerLeg2.r/FootMain.r/FootBack.r
+    m_Weight: 0
+  - m_Path: Armature/LowerBody/UpperLeg1.r/UpperLeg2.r/LowerLeg1.r/LowerLeg2.r/FootMain.r/FootFront.r
+    m_Weight: 0
+  - m_Path: Armature/MechOrigin
+    m_Weight: 0
+  - m_Path: Armature/MechOrigin/IKAngle.l
+    m_Weight: 0
+  - m_Path: Armature/MechOrigin/IKAngle.r
+    m_Weight: 0
+  - m_Path: Armature/MechOrigin/LegIKCtrl.l
+    m_Weight: 0
+  - m_Path: Armature/MechOrigin/LegIKCtrl.l/FootRotCtrl.l
+    m_Weight: 0
+  - m_Path: Armature/MechOrigin/LegIKCtrl.r
+    m_Weight: 0
+  - m_Path: Armature/MechOrigin/LegIKCtrl.r/FootRotCtrl.r
+    m_Weight: 0
+  - m_Path: ArmLeft
+    m_Weight: 0
+  - m_Path: ArmRight
+    m_Weight: 0
+  - m_Path: BodyLow
+    m_Weight: 0
+  - m_Path: BodyUp
+    m_Weight: 0
+  - m_Path: LegLeft
+    m_Weight: 0
+  - m_Path: LegRight
+    m_Weight: 0
