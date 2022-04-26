@@ -8,6 +8,8 @@ public class TopDownMovement : MonoBehaviour
     Animator anim = null;
     GameObject AnimObj = null;
 
+
+   // public KeyCode dafd;
     [SerializeField]
    // Vector3 Movement_;
     Vector3 targeting_pos;
