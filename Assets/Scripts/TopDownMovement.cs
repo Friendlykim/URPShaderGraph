@@ -7,7 +7,7 @@ public class TopDownMovement : MonoBehaviour
     Rigidbody rigid = null;
     Animator anim = null;
     GameObject AnimObj = null;
-
+    
 
    // public KeyCode dafd;
     [SerializeField]
